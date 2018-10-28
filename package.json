@@ -1,0 +1,14 @@
+{
+  "name": "cvr-api",
+  "version": "1.0.0",
+  "description": "Api der henter data fra cvr-api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niel905g",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
